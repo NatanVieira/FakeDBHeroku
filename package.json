@@ -4,7 +4,7 @@
   "description": "Fake Database for Heroku",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "start": "node server.js"
   },
   "author": "Natan Vieira",
   "license": "ISC",
