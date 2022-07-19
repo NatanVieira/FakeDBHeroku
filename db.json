@@ -1,0 +1,388 @@
+{
+    "usuarios": [
+      {
+        "id": "3400864817",
+        "email": "susane@email.com",
+        "senha": "MTIzNDU2",
+        "user": "Susane"
+      },
+      {
+        "id": "279669412",
+        "email": "natanael@email.com",
+        "senha": "MTIzNDU2",
+        "user": "Natan"
+      }
+    ],
+    "unidades": [
+      {
+        "apelido": "Unidade Susane 1",
+        "local": "Local Susane 1",
+        "marca": "Marca Susane 1",
+        "modelo": "Modelo Susane 1",
+        "status": true,
+        "idUsuario": "3400864817",
+        "id": "7405913074"
+      },
+      {
+        "apelido": "Unidade Susane 2",
+        "local": "Local Susane 2",
+        "marca": "Marca Susane 2",
+        "modelo": "Modelo Susane 2",
+        "idUsuario": "3400864817",
+        "id": "3375394830"
+      },
+      {
+        "apelido": "Unidade Susane 4",
+        "local": "Local Susane 4",
+        "marca": "Marca Susane 4",
+        "modelo": "Modelo Susane 4",
+        "status": false,
+        "idUsuario": "3400864817",
+        "id": "4960880534"
+      },
+      {
+        "apelido": "Unidade Susane 5",
+        "local": "Local Susane 5",
+        "marca": "Marca Susane 5",
+        "modelo": "Modelo Susane 5",
+        "status": true,
+        "idUsuario": "3400864817",
+        "id": "6401454697"
+      },
+      {
+        "apelido": "Unidade Natan 1",
+        "local": "Local Natan 1",
+        "marca": "Marca Natan 1",
+        "modelo": "Modelo Natan 1",
+        "status": false,
+        "idUsuario": "279669412",
+        "id": "3803494866"
+      },
+      {
+        "apelido": "Unidade Natan 2",
+        "local": "Local Natan 2",
+        "marca": "Marca Natan 2",
+        "modelo": "Modelo Natan 2",
+        "status": true,
+        "idUsuario": "279669412",
+        "id": "6619740536"
+      },
+      {
+        "apelido": "Unidade Natan 3",
+        "local": "Local Natan 3",
+        "marca": "Marca Natan 3",
+        "modelo": "Modelo Natan 3",
+        "status": true,
+        "idUsuario": "279669412",
+        "id": "322494848"
+      },
+      {
+        "apelido": "Unidade Natan 4",
+        "local": "Local Natan 4",
+        "marca": "Marca Natan 4",
+        "modelo": "Modelo Natan 4",
+        "status": false,
+        "idUsuario": "279669412",
+        "id": "5956046000"
+      },
+      {
+        "apelido": "Unidade Natan 5",
+        "local": "Local Natan 5",
+        "marca": "Marca Natan 5",
+        "modelo": "Modelo Natan 5",
+        "status": true,
+        "idUsuario": "279669412",
+        "id": "3459921368"
+      }
+    ],
+    "geracao": [
+      {
+        "id": "3608682382",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3000,
+        "mes": 5,
+        "ano": 2022,
+        "nomeMes": "Mai",
+        "data": "2022-05-11"
+      },
+      {
+        "id": "34141856",
+        "idUnidade": "6401454697",
+        "energiaGerada": 2100,
+        "mes": 5,
+        "ano": 2022,
+        "nomeMes": "Mai",
+        "data": "2022-05-11"
+      },
+      {
+        "id": "8592223152",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3200,
+        "mes": 4,
+        "ano": 2022,
+        "nomeMes": "Abr",
+        "data": "2022-04-12"
+      },
+      {
+        "id": "5590338310",
+        "idUnidade": "6401454697",
+        "energiaGerada": 3200,
+        "mes": 4,
+        "ano": 2022,
+        "nomeMes": "Abr",
+        "data": "2022-04-18"
+      },
+      {
+        "id": "3790477387",
+        "idUnidade": "7405913074",
+        "energiaGerada": 2109,
+        "mes": 3,
+        "ano": 2022,
+        "nomeMes": "Mar",
+        "data": "2022-03-08"
+      },
+      {
+        "id": "6532217698",
+        "idUnidade": "6401454697",
+        "energiaGerada": 1293,
+        "mes": 3,
+        "ano": 2022,
+        "nomeMes": "Mar",
+        "data": "2022-03-16"
+      },
+      {
+        "id": "6430695697",
+        "idUnidade": "7405913074",
+        "energiaGerada": 12039,
+        "mes": 2,
+        "ano": 2022,
+        "nomeMes": "Fev",
+        "data": "2022-02-14"
+      },
+      {
+        "id": "7159320361",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3201,
+        "mes": 1,
+        "ano": 2022,
+        "nomeMes": "Jan",
+        "data": "2022-01-18"
+      },
+      {
+        "id": "6056821087",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3299,
+        "mes": 12,
+        "ano": 2021,
+        "nomeMes": "Dez",
+        "data": "2021-12-15"
+      },
+      {
+        "id": "900001835",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3299,
+        "mes": 11,
+        "ano": 2021,
+        "nomeMes": "Nov",
+        "data": "2021-11-14"
+      },
+      {
+        "id": "2631988800",
+        "idUnidade": "7405913074",
+        "energiaGerada": 2198,
+        "mes": 10,
+        "ano": 2021,
+        "nomeMes": "Out",
+        "data": "2021-10-05"
+      },
+      {
+        "id": "4240478626",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3290,
+        "mes": 9,
+        "ano": 2021,
+        "nomeMes": "Set",
+        "data": "2021-09-24"
+      },
+      {
+        "id": "4315341307",
+        "idUnidade": "7405913074",
+        "energiaGerada": 2200,
+        "mes": 8,
+        "ano": 2021,
+        "nomeMes": "Ago",
+        "data": "2021-08-09"
+      },
+      {
+        "id": "3519414132",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3289,
+        "mes": 7,
+        "ano": 2021,
+        "nomeMes": "Jul",
+        "data": "2021-07-19"
+      },
+      {
+        "id": "8299643131",
+        "idUnidade": "7405913074",
+        "energiaGerada": 3190,
+        "mes": 6,
+        "ano": 2021,
+        "nomeMes": "Jun",
+        "data": "2021-06-16"
+      },
+      {
+        "id": "2908645730",
+        "idUnidade": "322494848",
+        "energiaGerada": 2390,
+        "mes": 5,
+        "ano": 2022,
+        "nomeMes": "Mai",
+        "data": "2022-05-17"
+      },
+      {
+        "id": "1119714233",
+        "idUnidade": "322494848",
+        "energiaGerada": 2380,
+        "mes": 4,
+        "ano": 2022,
+        "nomeMes": "Abr",
+        "data": "2022-04-19"
+      },
+      {
+        "id": "6926661659",
+        "idUnidade": "3459921368",
+        "energiaGerada": 2387,
+        "mes": 4,
+        "ano": 2022,
+        "nomeMes": "Abr",
+        "data": "2022-04-19"
+      },
+      {
+        "id": "7010930418",
+        "idUnidade": "6619740536",
+        "energiaGerada": 1238,
+        "mes": 3,
+        "ano": 2022,
+        "nomeMes": "Mar",
+        "data": "2022-03-22"
+      },
+      {
+        "id": "5826887810",
+        "idUnidade": "6619740536",
+        "energiaGerada": 3420,
+        "mes": 2,
+        "ano": 2022,
+        "nomeMes": "Fev",
+        "data": "2022-02-07"
+      },
+      {
+        "id": "5877029240",
+        "idUnidade": "322494848",
+        "energiaGerada": 1230,
+        "mes": 1,
+        "ano": 2022,
+        "nomeMes": "Jan",
+        "data": "2022-01-03"
+      },
+      {
+        "id": "9082775731",
+        "idUnidade": "322494848",
+        "energiaGerada": 122,
+        "mes": 12,
+        "ano": 2021,
+        "nomeMes": "Dez",
+        "data": "2021-12-14"
+      },
+      {
+        "id": "7434228694",
+        "idUnidade": "3459921368",
+        "energiaGerada": 1903,
+        "mes": 11,
+        "ano": 2021,
+        "nomeMes": "Nov",
+        "data": "2021-11-09"
+      },
+      {
+        "id": "3160000218",
+        "idUnidade": "6619740536",
+        "energiaGerada": 3219,
+        "mes": 10,
+        "ano": 2021,
+        "nomeMes": "Out",
+        "data": "2021-10-20"
+      },
+      {
+        "id": "6096585075",
+        "idUnidade": "322494848",
+        "energiaGerada": 1288,
+        "mes": 10,
+        "ano": 2021,
+        "nomeMes": "Out",
+        "data": "2021-10-11"
+      },
+      {
+        "id": "9776869377",
+        "idUnidade": "6619740536",
+        "energiaGerada": 2349,
+        "mes": 9,
+        "ano": 2021,
+        "nomeMes": "Set",
+        "data": "2021-09-24"
+      },
+      {
+        "id": "1931498881",
+        "idUnidade": "322494848",
+        "energiaGerada": 3489,
+        "mes": 8,
+        "ano": 2021,
+        "nomeMes": "Ago",
+        "data": "2021-08-10"
+      },
+      {
+        "id": "8757694826",
+        "idUnidade": "3459921368",
+        "energiaGerada": 3211,
+        "mes": 8,
+        "ano": 2021,
+        "nomeMes": "Ago",
+        "data": "2021-08-09"
+      },
+      {
+        "id": "2271372321",
+        "idUnidade": "322494848",
+        "energiaGerada": 1289,
+        "mes": 7,
+        "ano": 2021,
+        "nomeMes": "Jul",
+        "data": "2021-07-05"
+      },
+      {
+        "id": "4976012139",
+        "idUnidade": "6619740536",
+        "energiaGerada": 4934,
+        "mes": 7,
+        "ano": 2021,
+        "nomeMes": "Jul",
+        "data": "2021-07-21"
+      },
+      {
+        "id": "692637288",
+        "idUnidade": "322494848",
+        "energiaGerada": 433,
+        "mes": 6,
+        "ano": 2021,
+        "nomeMes": "Jun",
+        "data": "2021-06-08"
+      },
+      {
+        "id": "420508535",
+        "idUnidade": "6619740536",
+        "energiaGerada": 2389,
+        "mes": 1,
+        "ano": 2021,
+        "nomeMes": "Jan",
+        "data": "2021-01-05"
+      }
+    ]
+  }
